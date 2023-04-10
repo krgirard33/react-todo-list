@@ -110,7 +110,6 @@
   
   .list li label::before {
     content: "";
-    display: block;
     width: 0.9rem;
     height: 0.9rem;
     background: hsl(200, 100%, 90%);
